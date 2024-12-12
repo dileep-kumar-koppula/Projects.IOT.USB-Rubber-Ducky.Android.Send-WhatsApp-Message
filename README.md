@@ -71,8 +71,8 @@
       DigiKeyboard.print("Hello, This is Semi-Automated Message\n\nKindly, Please go to my GitHub Repositories for more information https://github.com/dileep-kumar-koppula?tab=repositories"); // Message
       DigiKeyboard.delay(1000);
       
-      DigiKeyboard.sendKeyStroke(43); // Enter
-      DigiKeyboard.sendKeyStroke(43); // Enter
+      DigiKeyboard.sendKeyStroke(43); // Tab
+      DigiKeyboard.sendKeyStroke(43); // Tab
       DigiKeyboard.delay(500);
       
       DigiKeyboard.sendKeyStroke(KEY_ENTER); // Enter
